@@ -1,0 +1,11 @@
+                              NATIONAL UIVERSITY OF COMPUTER AND EMERGING SCIENCES
+                         **************************************************************
+                         *          WELCOME TO PROGRAMMING FUNDAMENTALS QUIZ          *
+                                        -------------------------------
+                                           Enter 'S' to start quiz       
+                                        -------------------------------
+                                           Enter 'M' to view score       
+                                        -------------------------------
+                                           Enter 'Q' to exit qiuz       
+                                        -------------------------------
+						    

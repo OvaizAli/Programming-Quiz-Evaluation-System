@@ -1,0 +1,16 @@
+Question #4:You are supposed to print the number you entered.
+
+[Note]
+
+#	Use one variable to take input which is number.
+
+[Input]
+
+Enter an integer:3 
+
+
+[Output]
+
+Your number is:3
+
+ANSWER:

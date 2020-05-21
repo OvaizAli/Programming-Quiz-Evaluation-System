@@ -1,0 +1,16 @@
+Question #2: Suppose you are a father of two children and want to give them this month’s pocket money equally
+to each. Write a program which better suits the above given situation.
+
+[Note]
+#	All inputs must be integer.
+#	You are supposed to take only one integer.
+
+[Input]
+
+50
+
+[Output]
+
+25 25
+
+ANSWER:

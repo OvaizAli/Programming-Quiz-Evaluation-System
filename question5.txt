@@ -1,0 +1,22 @@
+Question no #5: Take an integer as  an input from the user and check whether the number is even or odd using
+IF ELSE conditions.
+
+
+[Note] 
+
+#        Your Integer variable must be "a".
+#        No extra spacing and extra writing is required.
+
+
+[Input]
+
+
+3
+
+
+[Output]
+
+
+Odd
+
+ANSWER:

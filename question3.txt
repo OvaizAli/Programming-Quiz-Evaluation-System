@@ -1,0 +1,15 @@
+Question #3:You are supposed to print the elements of an array using FOR loop in which you must take the variable
+of array as "arr" and initialize it at the time of declaration.Use int i in for loop and print only first five
+natural numbers.
+
+[Note]
+
+# Use int i in for loop .
+# Print only first five natural numbers.
+
+
+[Output]
+
+1 2 3 4 5
+
+ANSWER:

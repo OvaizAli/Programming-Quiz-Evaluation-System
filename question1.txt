@@ -1,0 +1,17 @@
+Question #1: Your programming fundamentals teacher wants to add the marks of both the mid-terms held in
+this semester. Write a program which outputs sum of the marks of the student.
+
+[Note]
+
+#	Assume marks as integer.
+#	Your input variables must be a and b.
+
+[Input]
+
+28 28
+
+[Output]
+
+56
+
+ANSWER:

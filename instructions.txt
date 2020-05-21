@@ -1,0 +1,9 @@
+						INSTRUCTIONS!!
+
+#		You are strictly not allowed to put an extra space in the program.
+#		Read the questions carefully and use the variable given in question.
+#		Since, there is no time limit take your time and check your code before submission.
+#		Press Enter then ctrl+z after writing your code.
+# 		Lastly, every question has 1 weightage so be careful.
+				
+					       BEST OF LUCK!!
